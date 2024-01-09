@@ -1,4 +1,10 @@
-### Hi there 👋
+```css
+/* Hi there 👋 */
+#peter {
+  display: flex;
+  background-color: yellow;
+}
+```
 
 <!--
 **peterjunpark/peterjunpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
